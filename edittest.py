@@ -21,5 +21,6 @@ print(char_element)
 
 chars = "hello world"
 print(chars)
+# print(chars)
 
 print("number : ", number_school, "name : ", str_name, "bool : ", bool_view, "float : ", flt_pi, "charcter : ", char_element, "charcters : ", chars)
